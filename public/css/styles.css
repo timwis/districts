@@ -1,0 +1,5 @@
+#map-container { position: absolute; top: 41px; bottom: 0; left: 0; right: 0; }
+@media (max-width: 979px) {
+    #map-container { top: 51px; }
+}
+#map { width: 100%; height: 100%; }
